@@ -1,0 +1,7 @@
+fullscreen = false
+dongle = "285013501138"
+# 10% deadzone
+deadzone = 0.10
+
+width = 1360
+height = 768
